@@ -2,4 +2,4 @@
 
 ### Hi there 👋, this is Col_or
 
-- I’m currently working on [exTHmUI](https://github.com/exTHmUI), an Android ROM project
+- I’m currently working on [KaleidoscopeOS](https://github.com/Project-Kaleidoscope), an AOSP based Android ROM project
